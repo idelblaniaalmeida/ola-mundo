@@ -1,3 +1,3 @@
 # olá,  mundo!
- Primeiro repositório do curso de Git e Gi GitHub
-adicionei essa linha direto no site.
+ Primeiro repo do curso de Git e GitHub
+ Adicionei essa linha direto no site.
